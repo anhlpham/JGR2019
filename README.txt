@@ -4,4 +4,5 @@ PI.zip file stores results of the Pre Industrial run
 Industrial_100yr_final.zip file stores results of the final year of the Industrial run 
 Grid.zip file stores information about the model grid point
 List_of_tracers_ecosys_model.txt gives the information about the model tracers
+Deposition.zip file contains the atmospheric nutrient deposition fields
 WOA folder stores the World Ocean Atlas file
