@@ -3,6 +3,6 @@ Please be aware that this is a still ongoing project.
 PI.zip file stores results of the Pre Industrial run
 Industrial_100yr_final.zip file stores results of the final year of the Industrial run 
 Grid.zip file stores information about the model grid point
-List_of_tracers_ecosys_model.txt gives the information about the model tracers
+List_of_tracers_ecosys_model.txt provides the information about the model tracers
 Deposition.zip file contains the atmospheric nutrient deposition fields
-MATLAB_scripts
+MATLAB_scripts.zip file contains matlab scripts that used to analyze the model results, produce figures...
