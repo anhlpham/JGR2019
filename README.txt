@@ -6,3 +6,5 @@ Grid.zip file stores information about the model grid point
 List_of_tracers_ecosys_model.txt provides the information about the model tracers
 Deposition.zip file contains the atmospheric nutrient deposition fields
 MATLAB_scripts.zip file contains matlab scripts that used to analyze the model results, produce figures...
+CO2_timeseries.zip file contains the evolution of the CO2 uptake in the Indian Ocean over 100 years of anthropogenic deposition
+PP_timeseries.zip file contains the evolution of the primary production (PP) in the Indian Ocean over 100 years of anthropogenic deposition
